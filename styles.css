@@ -1,0 +1,35 @@
+div {
+    border: 5px Solid  ;
+
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+div {
+    Background-color: pink;
+}
+
+.navBar {
+	display: flex;
+    justify-content: space-around;
+}
+
+.sections {
+	display: flex;
+    justify-content: space-around;
+}
+
+.aboutMe {
+    width: 500px;
+}
+
+.posts {
+    width: 500px;
+}
+
+.friendsList {
+    width: 500px;
+}
